@@ -1,10 +1,11 @@
 ﻿<!DOCTYPE html>
+<html lang="en">
 
 <head>
 	
 <meta charset="utf-8">
 	
-<meta name="viewport" content="width=devidev-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title> INDIAN RAILWAYS</title>
@@ -108,7 +109,7 @@
          
 <h1 class="main-heading-title"><span class="main-element themecolor" data-elements=" HAVE A SAFE JOURNEY,HAVE A SAFE JOURNEY,HAVE A SAFE JOURNEY"></span></h1>
  
-       <br></br>
+       <br />
 <p class="main-heading-text">BOOK TICKETS<br/></p>
         
 <div class="btn-bar">
